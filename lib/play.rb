@@ -35,5 +35,7 @@ def turn(board)
   end
 end
 def play(board)
+  counter = 0 
   turn(board)
+  
 end
